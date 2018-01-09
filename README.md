@@ -1,2 +1,2 @@
-# CanSat-2018-Hardware
-3D printed parts and arduino sketches.
+# CanSat-2018-Structure
+3D printed parts and laser/cnc toolpaths.
